@@ -13,4 +13,4 @@ To use your own domain, add it under **Settings → Pages → Custom domain**, a
 ## Before launch
 
 - The social links are placeholders (the contact email is wessel@anyways.co.za).
-- The audit form sends each request to the Google Sheet "anyways. Audit requests" (via an Apps Script web app) and emails wessel@anyways.co.za. The script source is in ../audit-form-apps-script.gs.
+- The audit form sends each request to the Google Sheet "anyways. Audit requests" (via an Apps Script web app) and emails wessel@anyways.co.za. The script source is in ../audit-form-apps-script.gs. When replacing index.html with a new export, re-apply the form hook with ../apply-form-hook.py.
