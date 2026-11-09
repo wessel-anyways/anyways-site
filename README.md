@@ -12,6 +12,5 @@ To use your own domain, add it under **Settings → Pages → Custom domain**, a
 
 ## Before launch
 
-- The results numbers are placeholders.
-- `hello@anyways.agency` and the social links are placeholders.
-- The sign-up chat doesn't send anything yet. Connect it to a form service (for example Formspree) or your CRM.
+- The social links are placeholders (the contact email is wessel@anyways.co.za).
+- The audit form doesn't send anything yet. Connect it to a form service (for example Formspree) or your CRM.
