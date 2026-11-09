@@ -13,4 +13,4 @@ To use your own domain, add it under **Settings → Pages → Custom domain**, a
 ## Before launch
 
 - The social links are placeholders (the contact email is wessel@anyways.co.za).
-- The audit form doesn't send anything yet. Connect it to a form service (for example Formspree) or your CRM.
+- The audit form sends each request to the Google Sheet "anyways. Audit requests" (via an Apps Script web app) and emails wessel@anyways.co.za. The script source is in ../audit-form-apps-script.gs.
