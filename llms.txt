@@ -11,7 +11,7 @@
 - Shopify stores: full Shopify store builds and CRO.
 
 ## How we work
-- Say it: a 48-hour audit that says what's broken.
+- Say it: a 24-hour audit that says what's broken.
 - Pivot: a plan ranked by impact, live the same week.
 - Fix: weekly tests and reports until the number moves.
 
