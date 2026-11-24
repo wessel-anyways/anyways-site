@@ -1,20 +1,40 @@
 # anyways.
 
-> South African performance marketing agency for DTC and lead-gen brands. We find what's broken in your marketing, tell you straight, and fix it, week after week.
+> anyways. is a South African performance marketing agency for DTC (direct-to-consumer) and lead-gen brands. We find what's broken in your marketing, tell you straight, and fix it, week after week. Every engagement starts with a free audit delivered within 24 hours. Founded and run by Wessel Breunissen.
+
+Key facts:
+- Name: anyways. (always lowercase, always with the period)
+- Type: performance marketing agency
+- Country: South Africa (serves clients across South Africa)
+- Website: https://anyways.co.za/
+- Email: wessel@anyways.co.za
+- Free audit: 30-second form at https://anyways.co.za/#start, answer within 24 hours, no card, no obligation
+- Free 30-minute video call: https://calendly.com/wessel-anyways/30min
+- Channels: Google Search, Performance Max, Shopping, YouTube, Meta (Facebook, Instagram), TikTok, Klaviyo email and SMS, Shopify, WordPress
+- Method: Say it (24-hour audit) → Pivot (plan ranked by impact, live the same week) → Fix (weekly tests and weekly reports until the number moves)
+
+## Prices (ZAR)
+- Website creation: R15,000 once-off, live in 5 working days
+- Social media marketing management (includes Meta ads management): R7,500 per month, ad spend paid by the client
+- Content production: half day R4,500 (5 edited videos, 15 edited photos); full day R9,000 (10 edited videos, 30 edited photos)
+- Google Ads, Meta, Shopify and email growth work: priced per plan, before work starts
 
 ## Services
-- Paid social: Meta, Instagram and TikTok campaigns with new angles tested weekly.
-- Search & shopping: Google Search, Performance Max and YouTube, with clean shopping feeds, cutting wasted spend first.
-- Funnels & landing pages: pages, forms and flows, A/B tested.
-- AI creative studio: AI-made statics, UGC-style ads and short-form video every week.
-- Email & SMS: Klaviyo lifecycle flows and campaigns.
-- Shopify stores: full Shopify store builds and CRO.
+- [Google Ads](https://anyways.co.za/google-ads): anyways. runs Google Search, Performance Max, Shopping and YouTube campaigns for South African DTC and lead-gen brands. Every account starts with a 24-hour audit that says what's broken, then we fix it and report on the number that matters every week.
+- [Meta ads](https://anyways.co.za/meta-ads): anyways. runs Facebook and Instagram ads, plus TikTok, for South African brands that need sales, leads or bookings. We build campaigns around an offer that converts, test new creative angles every week and measure everything on cost per result.
+- [Social media management](https://anyways.co.za/social-media-management): Social media marketing management from anyways. costs R7,500 a month. We plan your content, write the posts, captions and hooks, and set up, run and optimise your Meta ads, with a monthly report on what actually moved.
+- [Website design](https://anyways.co.za/website-design): anyways. builds websites for South African businesses for R15,000 once-off. Custom design, built mobile-first, with your bookings, shop or enquiry form connected, SEO basics and tracking set up, live in 5 working days.
+- [Content production](https://anyways.co.za/content-production): anyways. films and photographs your business for ads and social. A half day is R4,500 for 5 edited videos and 15 edited photos. A full day is R9,000 for 10 edited videos and 30 edited photos. Shot list and hooks are planned with you before the shoot.
+- [Shopify stores](https://anyways.co.za/shopify): anyways. builds Shopify stores for South African DTC brands and fixes the ones that don't convert. Store builds, CRO, product feeds, tracking and the Klaviyo email that brings buyers back, from one team.
+- [AI creative studio](https://anyways.co.za/ai-creative): Ads wear out. anyways. runs an AI creative studio that makes new statics, UGC-style ads and short-form video every week, briefed from the numbers, so your Meta, TikTok and Google campaigns always have fresh angles to test.
+- [Email & SMS](https://anyways.co.za/email-marketing): anyways. sets up and runs Klaviyo email and SMS for South African brands: the automated flows that make money in the background, and campaigns for launches and sales like Black Friday.
 
-## How we work
-- Say it: a 24-hour audit that says what's broken.
-- Pivot: a plan ranked by impact, live the same week.
-- Fix: weekly tests and reports until the number moves.
+## Work
+- [The Collective Club](https://anyways.co.za/work/the-collective-club) (Pilates club · Cape Town): New site live in under a week. Shoots, ads and emails right behind it.
+- [Praia Eyewear](https://anyways.co.za/work/praia-eyewear) (Sunglasses · Shopify): A full Black Friday campaign: ads, email, Google and Meta, ready before the drop.
 
-## Contact
-- Free audit and 30-minute call: https://anyways.co.za/
-- Email: wessel@anyways.co.za
+## More
+- [All services](https://anyways.co.za/services)
+- [Full text of this site for AI assistants](https://anyways.co.za/llms-full.txt)
+- [Privacy policy](https://anyways.co.za/privacy)
+- [Terms of use](https://anyways.co.za/terms)

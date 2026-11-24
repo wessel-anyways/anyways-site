@@ -1,0 +1,28 @@
+/* Service and case-study pages (built by scripts/build-seo-pages.py). Loads after legal.css. */
+.crumbs { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: #a3a3a0; margin: 0 0 8px; }
+.crumbs a { text-decoration: none; }
+.crumbs span { margin: 0 8px; color: #6b6b69; }
+main.doc p.formula { margin: 0 0 28px; color: var(--paper); font-size: clamp(20px, 2.6vw, 26px); line-height: 1.35; letter-spacing: -0.02em; }
+.formula .bad { font-size: 1.15em; font-family: 'Instrument Serif', Georgia, serif; font-style: italic; color: #a3a3a0; display: block; }
+.formula .aw { font-weight: 800; }
+.formula .fx { color: var(--paper); font-weight: 600; display: block; }
+main.doc .btn { margin: 4px 8px 4px 0; }
+.cta { margin: 56px 0 0; padding: 32px; background: #141414; border: 1px solid #262626; border-radius: 22px 22px 22px 6px; }
+.cta h2 { margin-top: 0 !important; padding-top: 0 !important; border-top: 0 !important; }
+.cards { list-style: none; padding: 0 !important; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.cards li { margin: 0 !important; }
+.cards a { display: block; height: 100%; padding: 20px; background: #141414; border: 1px solid #262626; border-radius: 16px 16px 16px 4px; text-decoration: none; }
+.cards a:hover { border-color: var(--red); color: inherit; }
+.cards strong { display: block; font-size: 18px; letter-spacing: -0.02em; margin-bottom: 6px; }
+.cards span { display: block; font-size: 14px; line-height: 1.5; color: #b5b5b2; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin: 16px 0; }
+.gallery figure { margin: 0; }
+.gallery img { width: 100%; height: auto; display: block; border-radius: 12px 12px 12px 3px; background: #141414; }
+.gallery figcaption { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 11px; letter-spacing: .08em; color: #a3a3a0; margin-top: 6px; }
+.cover { width: 100%; height: auto; border-radius: 22px 22px 22px 6px; margin: 0 0 32px; display: block; }
+details { border-top: 1px solid var(--line); padding: 14px 0; }
+details summary { cursor: pointer; font-weight: 700; font-size: 17px; letter-spacing: -0.01em; }
+details p { margin: 10px 0 0; }
+footer .links { display: flex; flex-wrap: wrap; gap: 8px 20px; }
+footer .links a { margin-left: 0; display: inline-block; padding: 6px 0; min-height: 24px; }
+.btn.red, .btn.red:hover { color: #000; }
